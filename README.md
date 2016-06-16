@@ -1,2 +1,2 @@
 # AICarouselView
-轮播图
+swift实现基本轮播控件
